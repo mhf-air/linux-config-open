@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=KeyboardMouse
+Comment=control mouse with keyboard
+Exec=/home/mhf/.bin/aa/keyboard-mouse -s -f /dev/input/by-id/usb-046a_0011-event-kbd
+X-GNOME-Autostart-enabled=true
